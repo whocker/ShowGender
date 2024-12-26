@@ -5,9 +5,9 @@
 // By [[en:w:User:BrandonXLF]]
 
 window.SHOW_USER_GENDER = $.extend({
-	male: ' [he]',
-	female: ' [she]',
-	unknown: ' [?]',
+	male: '♂️',
+	female: '♀️',
+	unknown: '',
 }, window.SHOW_USER_GENDER);
 
 mw.hook('wikipage.content').add(function(content) {
