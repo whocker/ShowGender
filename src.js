@@ -5,8 +5,8 @@
 // By [[en:w:User:BrandonXLF]]
 
 window.SHOW_USER_GENDER = $.extend({
-	male: '♂️',
-	female: '♀️',
+	male: ' 🚹',
+	female: ' 🚺',
 	unknown: '',
 }, window.SHOW_USER_GENDER);
 
